@@ -1,5 +1,14 @@
-# Homework2
+# Responsive Portfolio
 
-Creating a website utilizing Bootstrap.  The website will have a portfolio, contact, and about me.
+<!--Description of the Repository-->
+This is a website that created a responsive portfolio.  
+It has an about me page, portfolio, and contact me.  
+The portfolio portion shows some of the colleciton I have
 
-Will attempt some css style changes to make the website unique.
+<!--Here is a link to the active site-->
+https://mahoward2s.github.io/Responsive-Portfolio/
+
+<!--Screen Shot-->
+
+
+
